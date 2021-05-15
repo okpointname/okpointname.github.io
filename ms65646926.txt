@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "okpointname.github.io",
+  "Id": "583b0fbf-07de-4970-b162-4f485b015717"
+}
